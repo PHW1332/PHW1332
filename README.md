@@ -16,3 +16,9 @@ Here are some ideas to get you started:
 -->
 
 ### 날이 덥습니다...
+
+---
+
+~~진짜 너무 더워~~
+
+**반바지 입고 다니고 있습니다**
